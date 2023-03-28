@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "573940829760",
+    "firebase_url": "https://fitness-63ec0.firebaseio.com",
+    "project_id": "fitness-63ec0",
+    "storage_bucket": "fitness-63ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573940829760:android:8fe543e498db62a9",
+        "android_client_info": {
+          "package_name": "org.techtown.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573940829760-gju5o602fa1afhnjocpd87s9e2hcp9l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuA8_BniKL7eiwCRWNQ_S9ghQy0EmGK1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
